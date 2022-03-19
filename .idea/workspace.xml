@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d823a6-e343-45f0-af92-599daae5cf63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/포털서비스.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647587730306</updated>
       <workItem from="1647587732739" duration="80000" />
+      <workItem from="1647596225325" duration="335000" />
+      <workItem from="1647698994632" duration="47000" />
     </task>
     <servers />
   </component>
@@ -52,5 +54,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
