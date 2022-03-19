@@ -9,8 +9,8 @@ public class UserDao {
 //        커넥션
         Connection connection = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/portal?&useSSL=false",
-                "root",
-                "hyeok!0560"
+//                "아이디",
+//                "비밀번호"
         );
 //        sql 작성
         PreparedStatement preparedStatement = connection.prepareStatement(
