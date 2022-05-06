@@ -1,2 +1,6 @@
+kr/ac/jejunu/LombokTests.java
+ kr.ac.jejunu.LombokTests
+kr/ac/jejunu/SingletonTests.java
+ kr.ac.jejunu.SingletonTests
 kr/ac/jejunu/UserDaoTests.java
  kr.ac.jejunu.UserDaoTests
